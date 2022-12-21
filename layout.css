@@ -1,0 +1,13 @@
+body {
+    border-style: dotted;
+    display: flex;
+    justify-content: center;
+}
+
+
+div#main {
+    border-style: dotted;
+    margin: 20px;
+    width: 800px;
+    height: 800px;
+}
